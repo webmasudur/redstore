@@ -10,7 +10,6 @@
 }
 
 .container {
-    max-width: 1300px;
     margin-right: auto;
     padding-left: 25px;
     padding-right: 25px;
@@ -103,7 +102,7 @@ p {
 }
 
 .small-container {
-    max-width: 1080px;
+    max-width: 90%;
     margin: auto;
     padding-left: 25px;
     padding-right: 25px;
